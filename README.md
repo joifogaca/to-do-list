@@ -27,3 +27,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Links uteis
+
+https://screenresolutiontest.com/screenresolution/
+Meu monitor: 1366 x 768 xl
+Meu celular: 398 x 873 none
+Notebook ThinkPad: lg ?
