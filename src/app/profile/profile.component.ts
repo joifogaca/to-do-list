@@ -1,9 +1,10 @@
 import { Component } from '@angular/core';
+import { FotoComponent } from './foto/foto.component';
 
 @Component({
   selector: 'app-profile',
   standalone: true,
-  imports: [],
+  imports: [FotoComponent],
   templateUrl: './profile.component.html',
   styleUrl: './profile.component.scss'
 })
